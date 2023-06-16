@@ -1,4 +1,4 @@
-## Eae eu sou o André Daléssio, desenvolvedor web e empreendedor!
+## Eae! eu sou o André Daléssio, desenvolvedor web e empreendedor!
 
 Estou na área tem pouco mais de 1 ano, por aqui mostro um pouco do que aprendi e venho aprendendo ao longo desse tempo como desenvolvedor web. Sempre em constante evolução!
 
